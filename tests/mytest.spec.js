@@ -13,7 +13,7 @@ test('test', async ({ page }) => {
   await page.getByRole('link', { name: 'Log out' }).click();
 });
 
-//when using playwright codegen for if we want to use the auto generated code in our test file then use below command
+//when using playwright codegen if we want to use the auto generated code in our test file then use below command
 //npx playwright codegen -o/(--output) tests/mytest.spec.js
 
 
