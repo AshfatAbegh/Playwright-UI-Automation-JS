@@ -26,7 +26,7 @@ test('Builtin-Locators', async({page}) => {
 
     //await expect(await page.getByText('mo user')).toBeVisible(); - for fixed text validation
 
-    //for dynamic text validation
+    //for dynamic text validation if text changes
     const name = await page.locator("//p[@class='oxd-userdropdown-name']").textContent();
     await expect(await page.getByText(name)).toBeVisible();
 
