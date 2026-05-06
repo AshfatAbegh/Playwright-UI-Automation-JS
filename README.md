@@ -263,28 +263,4 @@ npx playwright show-trace trace.zip
 - [Playwright Test Documentation](https://playwright.dev/docs/intro)
 - [GitHub Playwright Repository](https://github.com/microsoft/playwright)
 
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -m 'Add new feature'`)
-4. Push to the branch (`git push origin feature/your-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the ISC License - see the LICENSE file for details.
-
-## Author
-
-**AshfatAbegh**
-
-## Support
-
-For issues, questions, or suggestions, please [open an issue](https://github.com/AshfatAbegh/Playwright-UI-Automation-JS/issues) on GitHub.
-
----
-
 **Happy Testing! 🎭**
